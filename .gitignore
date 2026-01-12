@@ -1,0 +1,11 @@
+# Python build folders
+build/
+dist/
+
+# Executables
+*.exe
+*.pkg
+
+# Python cache
+__pycache__/
+*.pyc
